@@ -22,6 +22,9 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 "C:\Users\acer\Downloads\Untitled document (1).pdf"
+
+
+
 RESULT:
 Blockchain technology represents a paradigm shift in how we record, verify, and
 share information. Its core strengths-decentralization, transparency, and
