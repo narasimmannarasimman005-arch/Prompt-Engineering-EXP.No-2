@@ -21,5 +21,12 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
-
+"C:\Users\acer\Downloads\Untitled document (1).pdf"
 RESULT:
+Blockchain technology represents a paradigm shift in how we record, verify, and
+share information. Its core strengths-decentralization, transparency, and
+security-make it a powerful tool with applications far beyond digital currencies. As
+industries continue to explore its potential, blockchain may fundamentally reshape
+how transactions and trust are managed in the digital age. Understanding its basics
+is the first step toward appreciating the revolutionary changes it brings to society and
+the economy
